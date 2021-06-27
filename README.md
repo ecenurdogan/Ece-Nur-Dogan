@@ -16,7 +16,7 @@ You can find and get touch with me via Linkedin and Instagram!
 
 
 <p align=center>
-  <div align=center>
+  <div align=right>
     <a href="https://github.com/end0455/github-readme-stats" title="Go to Source">
       <img align="left" width=396src="https://github-readme-stats.vercel.app/api/top-langs/?username=end0455&show_icons=true&theme=react&border_color=61dafb&hide_border=true" />
     </a>
