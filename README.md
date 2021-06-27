@@ -15,7 +15,7 @@ You can find and get touch with me via Linkedin and Instagram!
 [![Instagram Badge](https://img.shields.io/badge/ecenur.dogann-follow%20on%20instagram-blue?style=for-the-badge&logo=instagram)](https://www.instagram.com/ecenur.dogann/)
 
 
-<p align=center>
+<p align=right>
   <div align=right>
     <a href="https://github.com/end0455/github-readme-stats" title="Go to Source">
       <img align="right" width=396 src="https://github-readme-stats.vercel.app/api?username=end0455&show_icons=true&theme=react&border_color=61dafb&hide_border=true" />
