@@ -7,7 +7,6 @@ I'm Ece Nur DOĞAN. Computer Engineer
 
 ![Ece's GitHub Stats](https://github-readme-stats.vercel.app/api?username=end0455&show_icons=true)
 
-
 ### Contact Me 📫
 
 You can find and get touch with me via Linkedin and Instagram!
@@ -16,6 +15,19 @@ You can find and get touch with me via Linkedin and Instagram!
 [![Instagram Badge](https://img.shields.io/badge/ecenur.dogann-follow%20on%20instagram-blue?style=for-the-badge&logo=instagram)](https://www.instagram.com/ecenur.dogann/)
 
 
+<p align=center>
+  <div align=center>
 
-<a href="https://github.com/end0455"><img align="center" src="https://github-readme-stats.vercel.app/api?username=end0455&show_icons=true&bg_color=0d1117&text_color=bdc3c7&title_color=f1c40f&icon_color=f1c40f&hide_border=true" /></a>
-<a href="https://github.com/end0455"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=end0455&bg_color=0d1117&text_color=bdc3c7&title_color=f1c40f&hide_border=true&layout=compact&langs_count=7" /></a>
+    <a href="https://github.com/anuraghazra/github-readme-stats" title="Go to Source">
+      <img align="right" width=396 src="https://github-readme-stats.vercel.app/api?username=end0455&show_icons=true&theme=react&border_color=61dafb&hide_border=true" />
+    </a>
+  </div>
+  <div align=center>
+    <a href="https://github.com/end0455/github-readme-stats">
+      <img width=325 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=end0455&hide=c%23,powershell,Mathematica,Ruby,Objective-C,Objective-C%2b%2b,Cuda&title_color=61dafb&text_color=ffffff&icon_color=61dafb&bg_color=20232a&langs_count=8&layout=compact&border_color=61dafb&hide_border=true" />
+    </a>
+  </div>
+  <br>
+  <img src="https://activity-graph.herokuapp.com/graph?username=end0455&theme=react-dark&bg_color=20232a&hide_border=true" width="100%"/>
+</p>
+
