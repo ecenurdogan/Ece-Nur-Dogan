@@ -2,9 +2,10 @@
 
 
 I'm Ece Nur DOĞAN. Computer Engineer
+
 ![Profile Views](https://komarev.com/ghpvc/?username=end0455)
 
-![Ece's GitHub Stats](https://github-readme-stats.vercel.app/api?username=end0455_icons=true)
+![Ece's GitHub Stats](https://github-readme-stats.vercel.app/api?username=end0455&show_icons=true)
 
 
 ### Contact Me 📫
