@@ -1,7 +1,7 @@
 ## Hi! Welcome to my github page. 👋
 
 
-I'm Ece Nur DOĞAN. Computer Engineer
+I'm Ece Nur DOĞAN. Computer Engineer :computer:.
 
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=end0455.end0455">
 
