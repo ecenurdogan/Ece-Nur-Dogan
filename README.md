@@ -1,4 +1,14 @@
-### Hi! Welcome to my github page.👋, , I'm Ece 🏼‍💻 
+### Hi! Welcome to my github page. 👋
+
+
+I'm Ece Nur DOĞAN. Computer Engineer
+
+## Contact Me 📫
+
+You can find and get touch with me via Linkedin and Instagram!
+
+[![Linkedin Badge](https://img.shields.io/badge/ecenurdogann-follow%20on%20linkedin-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/ecenurdogann/)
+[![Instagram Badge](https://img.shields.io/badge/ecenur.dogann-follow%20on%20instagram-blue?style=for-the-badge&logo=instagram)](https://www.instagram.com/ecenur.dogann/)
 
 <p align='left'>
   <a href="https://www.instagram.com/ecenur.dogann/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
