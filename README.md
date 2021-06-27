@@ -21,7 +21,7 @@ You can find and get touch with me via Linkedin and Instagram!
       <img align="left" width=396 src="https://github-readme-stats.vercel.app/api?username=end0455&show_icons=true&theme=react&border_color=61dafb&hide_border=true" />
     </a>
     <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img align="right" width=596 height=300 src="https://github-readme-stats.vercel.app/api/top-langs/?username=end0455&show_icons=true&theme=react&border_color=61dafb&hide_border=true" />
+    <img align="right" width=396 src="https://github-readme-stats.vercel.app/api/top-langs/?username=end0455&show_icons=true&theme=react&border_color=61dafb&hide_border=true" />
     </a>
    </div>
  </p>
