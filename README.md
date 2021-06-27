@@ -7,4 +7,4 @@
 </p>
 
 <a href="https://github.com/end0455"><img align="center" src="https://github-readme-stats.vercel.app/api?username=end0455&show_icons=true&bg_color=0d1117&text_color=bdc3c7&title_color=f1c40f&icon_color=f1c40f&hide_border=true" /></a>
-<a href="https://github.com/end0455"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=end0455k&bg_color=0d1117&text_color=bdc3c7&title_color=f1c40f&hide_border=true&layout=compact&langs_count=7" /></a>
+<a href="https://github.com/end0455"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=end0455&bg_color=0d1117&text_color=bdc3c7&title_color=f1c40f&hide_border=true&layout=compact&langs_count=7" /></a>
